@@ -1,0 +1,34 @@
+[
+    {
+        "id": "3",
+        "user_id": "3",
+        "movie_name": "Superman",
+        "synopsis": "A movie about Klark Kent",
+        "trailer_url": "https://www.youtube.com/watch?v=T6DJcgm3wNY&t=110s",
+        "post_date": "2021-03-27 00:00:00"
+      },
+      {
+        "id": "1",
+        "user_id": "3",
+        "movie_name": "Spider-Man",
+        "synopsis": "A movie about Spider",
+        "trailer_url": "https://www.youtube.com/watch?v=T6DJcgm3wNY&t=110s",
+        "post_date": "2021-03-27 00:00:00"
+      },
+      {
+        "id": "2",
+        "user_id": "3",
+        "movie_name": "Wonder Woman",
+        "synopsis": "A movie about lady",
+        "trailer_url": "https://www.youtube.com/watch?v=T6DJcgm3wNY&t=110s",
+        "post_date": "2021-03-27 00:00:00"
+      },
+      {
+        "id": "1",
+        "user_id": "3",
+        "movie_name": "Ant-Man",
+        "synopsis": "A movie about an ant",
+        "trailer_url": "https://www.youtube.com/watch?v=T6DJcgm3wNY&t=110s",
+        "post_date": "2021-03-27 00:00:00"
+      }
+]
